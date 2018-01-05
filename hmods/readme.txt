@@ -1,4 +1,4 @@
-=== Assets for XMB Themes ===
+Assets for XMB Themes
 
 These modules will install assets for XMB themes.
 To use XMB, change Settings —> Driver —> Menu Driver option to "xmb"
