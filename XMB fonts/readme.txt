@@ -1,4 +1,4 @@
-Put this folder on your flash drive that you use for USB host.
+Put this folder on the root of your flash drive that you use for USB host.
 
 Hook it up to your SNESC.
 
