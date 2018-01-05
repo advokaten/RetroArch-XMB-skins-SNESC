@@ -1,4 +1,9 @@
-﻿INSTALLATION for USB-Host:
+=== Assets for XMB Themes ===
+
+These modules will install assets for XMB themes.
+To use XMB, change Settings —> Driver —> Menu Driver option to "xmb"
+
+INSTALLATION for USB-Host:
 
 1. Go to Advokaten_XMB_skins/hmods.
 2. Copy your-favorite.hmod or all of them.
@@ -14,11 +19,6 @@ NOTE:
 
 * RetroArch is required.
 * The custom.hmod is actually monochrome-inverted.
-
-=== Assets for XMB Themes ===
-
-These modules will install assets for XMB themes.
-To use XMB, change Settings —> Driver —> Menu Driver option to "xmb"
 
 Assets by libretro
 Modules by Advokaten
