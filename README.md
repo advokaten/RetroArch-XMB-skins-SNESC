@@ -1,10 +1,10 @@
 These modules will install XMB skins for RetroArch, on your SNESC.
 
-Assets by libretro
-Modules by Advokaten
-Original monochrome module by pcm
-Hakchi module system by madmonkey
-NES Mini shell integration by Cluster
+Assets by libretro<br>
+Modules by Advokaten<br>
+Original monochrome module by pcm<br>
+Hakchi module system by madmonkey<br>
+NES Mini shell integration by Cluster<br>
 
 NOTE: 
 
